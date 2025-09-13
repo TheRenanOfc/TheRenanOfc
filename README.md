@@ -45,10 +45,6 @@ Entusiasta de tecnologias emergentes, automação de processos, segurança de ap
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/TheRenanOfc" alt="Contributions Chart" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheRenanOfc&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRenanOfc&layout=compact&theme=tokyonight" alt="Top Languages" height="160em" />
 </p>
