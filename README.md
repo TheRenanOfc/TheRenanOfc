@@ -55,7 +55,7 @@ Entusiasta de tecnologias emergentes, automação de processos, segurança de ap
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| **Project A** | API RESTful escalável em Node.js | [GitHub](https://github.com/TheRenanOfc/project-a) |
+| **Vortex Hardware Systems** | Website institucional, destacando soluções e produtos de hardware.  | [GitHub]([https://github.com/TheRenanOfc/project-a](https://therenanofc.github.io/Vortex-Hardware-Systems/)) |
 | **Project B** | Aplicação web em React + Tailwind | [GitHub](https://github.com/TheRenanOfc/project-b) |
 | **Project C** | Automação e scripts em Python | [GitHub](https://github.com/TheRenanOfc/project-c) |
 
