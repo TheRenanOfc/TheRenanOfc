@@ -1,14 +1,25 @@
-# Renan Silva (@TheRenanOfc) 👋
+# Renan (@TheRenanOfc) 👋
 
-Desenvolvedor Full Stack com experiência em projetos web e backend. Apaixonado por soluções escaláveis, código limpo e boas práticas de desenvolvimento.
+Desenvolvedor Full Stack com expertise em arquiteturas escaláveis, microservices, APIs de alta performance e soluções web modernas.  
+Especialista em backend robusto, frontend eficiente e integração contínua de sistemas complexos.
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🔹 Full Stack Developer | Backend & Frontend  
-- 🔹 Experiência com APIs, bancos de dados e cloud  
-- 🔹 Entusiasta de Open Source e aprendizado contínuo  
+Desenvolvedor Full Stack com experiência abrangente em arquiteturas escaláveis, design de software orientado a domínios (DDD) e práticas ágeis.  
+
+Entusiasta de tecnologias emergentes, automação de processos, segurança de aplicações e otimização de performance.  
+
+- 🔹 Experiência em **Cloud Computing**: AWS, GCP, Azure  
+- 🔹 **Desenvolvimento Web e Mobile**: React, Next.js, Node.js, Flutter  
+- 🔹 **Backend e Microservices**: Node.js, Python, Java, Go, Docker, Kubernetes  
+- 🔹 **Banco de Dados e Data Engineering**: PostgreSQL, MongoDB, MySQL, Redis, Kafka  
+- 🔹 **DevOps & CI/CD**: GitHub Actions, Jenkins, Terraform, Ansible, Docker Compose  
+- 🔹 **Segurança & Criptografia**: OAuth2, JWT, TLS, pentesting básico  
+- 🔹 **Inteligência Artificial & Machine Learning**: Python, TensorFlow, PyTorch, NLP  
+- 🔹 **Arquitetura & Metodologias**: Clean Architecture, TDD, DDD, SOLID, Agile/Scrum  
+- 🔹 **Performance & Otimização**: Profiling, caching, escalabilidade horizontal e vertical  
 
 ---
 
