@@ -26,8 +26,19 @@ Entusiasta de tecnologias emergentes, automação de processos, segurança de ap
 ## 🛠️ Skills Técnicas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mysql,postgres,mongodb,docker,git,github,linux,vscode,aws" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,go" />
+  <br/>
+  <!-- Banco de Dados -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" />
+  <br/>
+  <!-- DevOps & Ferramentas -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws,gcp,azure,vscode,figma" />
 </p>
+
 
 ---
 
