@@ -78,9 +78,8 @@ Entusiasta de tecnologias emergentes, automação de processos, segurança de ap
 ---
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/48100203a87a175735d3473ab3e1e308/c54b3084addb23ea-69/s540x810/a93b1c09e7b2f49496b38d9e2d3090be886666de.gif" alt="GIF decorativo" width="800"/>
+  <img src="assets/RedBullF1.gif" alt="GIF decorativo" width="800"/>
 </p>
-
 
 ---
 
