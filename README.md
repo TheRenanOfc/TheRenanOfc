@@ -56,7 +56,7 @@ Entusiasta de tecnologias emergentes, automação de processos, segurança de ap
 | Projeto | Descrição | Link |
 |---------|-----------|------|
 | **Vortex Hardware Systems** | Website institucional, destacando soluções e produtos de hardware.  | [Visitar](https://therenanofc.github.io/Vortex-Hardware-Systems/) |
-| **Project B** | Aplicação web em React + Tailwind | [Visitar](https://github.com/TheRenanOfc/project-b) |
+| **Mouse-Hunting Scorpion** | Simulação interativa de criatura, desenvolvida em JavaScript e HTML5. | [Visitar](https://therenanofc.github.io/Mouse-Hunting-Scorpion-/) |
 | **Project C** | Automação e scripts em Python | [Visitar](https://github.com/TheRenanOfc/project-c) |
 
 ---
