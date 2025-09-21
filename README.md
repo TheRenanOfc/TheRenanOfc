@@ -81,8 +81,3 @@ Entusiasta de tecnologias emergentes, automação de processos, segurança de ap
   <img src="assets/RedBullF1.gif" alt="GIF decorativo" width="800"/>
 </p>
 
----
-
-<p align="center">
-  <em>Este README serve como portfólio público e vitrine profissional no GitHub.</em>
-</p>
