@@ -1,44 +1,61 @@
 # Renan (@TheRenanOfc) 👋
 
-Desenvolvedor Full Stack com expertise em arquiteturas escaláveis, microservices, APIs de alta performance e soluções web modernas.  
-Especialista em backend robusto, frontend eficiente e integração contínua de sistemas complexos.
+Estudante de Engenharia Mecatrônica na UTFPR e Técnico em Mecânica pelo SENAI.
+
+Apaixonado por tecnologia, desenvolvimento de software, automação industrial e resolução de problemas através da programação. Este perfil reúne meus projetos acadêmicos, estudos e experimentos desenvolvidos ao longo da minha formação.
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Full Stack com experiência abrangente em arquiteturas escaláveis, design de software orientado a domínios (DDD) e práticas ágeis.  
+Atualmente curso **Engenharia Mecatrônica** na UTFPR e sou formado como **Técnico em Mecânica** pelo SENAI.
 
-Entusiasta de tecnologias emergentes, automação de processos, segurança de aplicações e otimização de performance.  
+Tenho interesse em desenvolvimento de software, automação industrial, sistemas embarcados e desenvolvimento web. Gosto de aprender através de projetos práticos, buscando sempre evoluir minhas habilidades técnicas e desenvolver soluções organizadas e eficientes.
 
-- 🔹 Experiência em **Cloud Computing**: AWS, GCP, Azure  
-- 🔹 **Desenvolvimento Web e Mobile**: React, Next.js, Node.js, Flutter  
-- 🔹 **Backend e Microservices**: Node.js, Python, Java, Go, Docker, Kubernetes  
-- 🔹 **Banco de Dados e Data Engineering**: PostgreSQL, MongoDB, MySQL, Redis, Kafka  
-- 🔹 **DevOps & CI/CD**: GitHub Actions, Jenkins, Terraform, Ansible, Docker Compose  
-- 🔹 **Segurança & Criptografia**: OAuth2, JWT, TLS, pentesting básico  
-- 🔹 **Inteligência Artificial & Machine Learning**: Python, TensorFlow, PyTorch, NLP  
-- 🔹 **Arquitetura & Metodologias**: Clean Architecture, TDD, DDD, SOLID, Agile/Scrum  
-- 🔹 **Performance & Otimização**: Profiling, caching, escalabilidade horizontal e vertical  
+- 🎓 Engenharia Mecatrônica — UTFPR
+- ⚙️ Técnico em Mecânica — SENAI
+- 💻 Estudando desenvolvimento Backend e aplicações Web
+- 🤖 Interesse em Automação Industrial, Robótica e Sistemas Embarcados
+- 📚 Sempre aprendendo novas tecnologias através de projetos práticos
 
 ---
 
-## 🛠️ Skills Técnicas
+## 🛠️ Tecnologias
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-  <br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,go" />
-  <br/>
-  <!-- Banco de Dados -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" />
-  <br/>
-  <!-- DevOps & Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws,gcp,azure,vscode,figma" />
+
+<!-- Linguagens -->
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,php" />
+
+<br/>
+
+<!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind" />
+
+<br/>
+
+<!-- Banco de Dados -->
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" />
+
+<br/>
+
+<!-- Ferramentas -->
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,figma" />
+
 </p>
 
+---
+
+## 📚 Atualmente estudando
+
+- Java
+- Spring Boot
+- PostgreSQL
+- React
+- Docker
+- Git
+- Desenvolvimento Web
+- Programação aplicada à Automação Industrial
 
 ---
 
@@ -55,9 +72,19 @@ Entusiasta de tecnologias emergentes, automação de processos, segurança de ap
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| **Vortex Hardware Systems** | Website institucional, destacando soluções e produtos de hardware.  | [Visitar](https://therenanofc.github.io/Vortex-Hardware-Systems/) |
-| **Mouse-Hunting Scorpion** | Simulação interativa de criatura, desenvolvida em JavaScript e HTML5. | [Visitar](https://therenanofc.github.io/Mouse-Hunting-Scorpion-/) |
-| **Project C** | Automação e scripts em Python | [Visitar](https://github.com/TheRenanOfc/project-c) |
+| **Vortex Hardware Systems** | Website institucional desenvolvido utilizando HTML, CSS e JavaScript, com foco em design responsivo e organização visual. | [Visitar](https://therenanofc.github.io/Vortex-Hardware-Systems/) |
+| **Mouse-Hunting Scorpion** | Simulação interativa desenvolvida em JavaScript e HTML5 para praticar lógica de programação, animações e interação com o usuário. | [Visitar](https://therenanofc.github.io/Mouse-Hunting-Scorpion-/) |
+| **Project C** | Repositório destinado a estudos, automações e pequenos projetos desenvolvidos em Python. | [Visitar](https://github.com/TheRenanOfc/project-c) |
+
+> Novos projetos são adicionados conforme avanço nos estudos e durante minha graduação.
+
+---
+
+## 🎯 Objetivos
+
+Atualmente busco desenvolver conhecimentos em desenvolvimento de software, bancos de dados e automação industrial, aplicando programação na criação de soluções para problemas reais.
+
+Meu objetivo é construir projetos que integrem software e engenharia, registrando minha evolução técnica ao longo da graduação.
 
 ---
 
@@ -67,9 +94,11 @@ Entusiasta de tecnologias emergentes, automação de processos, segurança de ap
   <a href="https://github.com/TheRenanOfc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/seu-usuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:seu-email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -80,4 +109,4 @@ Entusiasta de tecnologias emergentes, automação de processos, segurança de ap
 <p align="center">
   <img src="assets/RedBullF1.gif" alt="GIF decorativo" width="800"/>
 </p>
-
+```
