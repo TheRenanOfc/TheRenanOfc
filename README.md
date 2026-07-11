@@ -59,15 +59,6 @@ Tenho interesse em desenvolvimento de software, automação industrial, sistemas
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRenanOfc&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRenanOfc&layout=compact&theme=tokyonight" alt="Top Languages" height="160em" />
-</p>
-
----
-
 ## 📁 Projetos Principais
 
 | Projeto | Descrição | Link |
@@ -109,4 +100,3 @@ Meu objetivo é construir projetos que integrem software e engenharia, registran
 <p align="center">
   <img src="assets/RedBullF1.gif" alt="GIF decorativo" width="800"/>
 </p>
-```
