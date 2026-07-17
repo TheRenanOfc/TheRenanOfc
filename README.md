@@ -65,7 +65,7 @@ Tenho interesse em desenvolvimento de software, automação industrial, sistemas
 |---------|-----------|------|
 | **CodeShelf V2** | Aplicação web que transforma perfis do GitHub em uma estante visual estilo Steam, usando JavaScript puro e armazenamento local. | [Visitar](https://therenanofc.github.io/CodeShelf-V2/) |
 | **Vortex Hardware Systems** | Website institucional desenvolvido utilizando HTML, CSS e JavaScript, com foco em design responsivo e organização visual. | [Visitar](https://therenanofc.github.io/Vortex-Hardware-Systems/) 
-| **Mouse-Hunting Scorpion** | Simulação interativa desenvolvida em JavaScript e HTML5 para praticar lógica de programação, animações e interação com o usuário. | [Visitar](https://therenanofc.github.io/Mouse-Hunting-Scorpion-/) |
+| **Mouse-Hunting Scorpion** | Simulação interativa desenvolvida em JavaScript e HTML5 para praticar lógica de programação, animações e interação com o usuário. | [Visitar](https://therenanofc.github.io/Mouse-Hunting-Scorpion/) |
 
 > Novos projetos são adicionados conforme avanço nos estudos e durante minha graduação.
 
